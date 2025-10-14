@@ -1,6 +1,6 @@
 // custom variable values
-$primary: #c29938;
-$light: #fbf5e5;
+$primary: #081a35;
+$light: #346a8a;
 
 // import the functions & variables
 @import "../node_modules/bootstrap/scss/_functions";
@@ -9,7 +9,7 @@ $light: #fbf5e5;
 // custom theme colours
 $custom-theme-colors: (
   "altlight": #f2ebfa,
-  "altdark": #522192
+  "altdark": #1548a7
 );
 
 // merge the maps to add new theme colors
